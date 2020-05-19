@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53ab017f-0d96-4ae8-86b1-7e42cf3fe3a4" name="Default Changelist" comment="" />
+    <list default="true" id="53ab017f-0d96-4ae8-86b1-7e42cf3fe3a4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch05/ArrayEx8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05/ArrayEx8.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,9 +30,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.ArrayEx5">
-    <configuration name="ArrayEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch05.ArrayEx1" />
+  <component name="RunManager" selected="Application.ArrayEx19">
+    <configuration name="ArrayEx15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch05.ArrayEx15" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
@@ -41,8 +44,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch05.ArrayEx2" />
+    <configuration name="ArrayEx16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch05.ArrayEx16" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
@@ -54,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch05.ArrayEx3" />
+    <configuration name="ArrayEx17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch05.ArrayEx17" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
@@ -67,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch05.ArrayEx4" />
+    <configuration name="ArrayEx18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch05.ArrayEx18" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
@@ -80,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayEx5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch05.ArrayEx5" />
+    <configuration name="ArrayEx19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch05.ArrayEx19" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
@@ -95,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayEx5" />
-        <item itemvalue="Application.ArrayEx4" />
-        <item itemvalue="Application.ArrayEx3" />
-        <item itemvalue="Application.ArrayEx1" />
-        <item itemvalue="Application.ArrayEx2" />
+        <item itemvalue="Application.ArrayEx19" />
+        <item itemvalue="Application.ArrayEx18" />
+        <item itemvalue="Application.ArrayEx17" />
+        <item itemvalue="Application.ArrayEx16" />
+        <item itemvalue="Application.ArrayEx15" />
       </list>
     </recent_temporary>
   </component>
@@ -117,22 +120,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="199" key="GridCell.Tab.0.bottom" timestamp="1589793652109">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom" timestamp="1589809660722">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1398" height="199" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1589793652109" />
-    <state width="1398" height="199" key="GridCell.Tab.0.center" timestamp="1589793652108">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589809660722" />
+    <state width="1877" height="275" key="GridCell.Tab.0.center" timestamp="1589809660722">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1398" height="199" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1589793652108" />
-    <state width="1398" height="199" key="GridCell.Tab.0.left" timestamp="1589793652107">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1877" height="275" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589809660722" />
+    <state width="1877" height="275" key="GridCell.Tab.0.left" timestamp="1589809660722">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1398" height="199" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1589793652107" />
-    <state width="1398" height="199" key="GridCell.Tab.0.right" timestamp="1589793652108">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1877" height="275" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589809660722" />
+    <state width="1877" height="275" key="GridCell.Tab.0.right" timestamp="1589809660722">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1398" height="199" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1589793652108" />
+    <state width="1877" height="275" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589809660722" />
     <state x="385" y="144" width="670" height="676" key="search.everywhere.popup" timestamp="1589791056680">
       <screen x="0" y="23" width="1440" height="797" />
     </state>

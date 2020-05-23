@@ -21,6 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="53ab017f-0d96-4ae8-86b1-7e42cf3fe3a4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/CallStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/CallStackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/CallStackTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/CallStackTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/CardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/CardTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +48,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ch06" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DH\Documents\git\java-basic\src\ch06" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.CardTest">
     <configuration name="ArrayEx17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -146,6 +154,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1877" height="272" key="GridCell.Tab.0.bottom" timestamp="1589980257983">

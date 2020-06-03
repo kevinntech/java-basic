@@ -1,5 +1,6 @@
 package ch07;
 
+/*
 class Outer {
 	class InstanceInner {
 		int iv=100;
@@ -16,6 +17,7 @@ class Outer {
 	}
 }
 
+
 class InnerEx4 {
 	public static void main(String[] args) {
 		// 인스턴스클래스의 인스턴스를 생성하려면
@@ -31,3 +33,4 @@ class InnerEx4 {
 		System.out.println("si.iv : "+ si.iv);
 	}
 }
+*/

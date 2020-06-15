@@ -49,14 +49,14 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\DH\Documents\git\java-basic\src\ch07" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\DH\Documents\git\java-basic\src\ch09" />
       <recent name="C:\Users\DH\Documents\git\java-basic\src\ch08" />
       <recent name="C:\Users\DH\Documents\git\java-basic\src\ch07" />
       <recent name="C:\Users\DH\Documents\git\java-basic\src\ch06" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DH\Documents\git\java-basic\src\ch07" />
     </key>
   </component>
   <component name="RunManager" selected="Application.CardTest">

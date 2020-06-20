@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53ab017f-0d96-4ae8-86b1-7e42cf3fe3a4" name="Default Changelist" comment="" />
+    <list default="true" id="53ab017f-0d96-4ae8-86b1-7e42cf3fe3a4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,18 +45,19 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ch09" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ch10" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\DH\Documents\git\java-basic\src\ch07" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DH\Documents\git\java-basic\src\ch10" />
       <recent name="C:\Users\DH\Documents\git\java-basic\src\ch09" />
       <recent name="C:\Users\DH\Documents\git\java-basic\src\ch08" />
       <recent name="C:\Users\DH\Documents\git\java-basic\src\ch07" />
       <recent name="C:\Users\DH\Documents\git\java-basic\src\ch06" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DH\Documents\git\java-basic\src\ch07" />
     </key>
   </component>
   <component name="RunManager" selected="Application.CardTest">

@@ -1,5 +1,5 @@
 package ch06;
-
+/*
 class Car {
 	String color;		// 색상
 	String gearType;	// 변속기 종류 - auto(자동), manual(수동)
@@ -13,6 +13,8 @@ class Car {
 	}
 }
 
+
+ */
 class CarTest {
 	public static void main(String[] args) {
 		Car c1 = new Car();

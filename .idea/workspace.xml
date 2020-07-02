@@ -19,73 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53ab017f-0d96-4ae8-86b1-7e42cf3fe3a4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch01/Hello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch02/CastingEx1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch02/CastingEx2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch02/CharToCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch02/FloatEx1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch02/FloatToBinEx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch02/OverflowEx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch02/PrintEx1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch02/PrintfEx2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch02/ScannerEx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch02/SpecialCharEx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch02/StringEx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch02/VarEx1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch02/VarEx2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch03/OperatorEx1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch03/OperatorEx10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch03/OperatorEx11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch03/OperatorEx12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch03/OperatorEx13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch03/OperatorEx14.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch03/OperatorEx15.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch03/OperatorEx16.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch03/OperatorEx17.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch03/OperatorEx18.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch03/OperatorEx19.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch03/OperatorEx2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch03/OperatorEx20.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch03/OperatorEx3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch03/OperatorEx4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch03/OperatorEx5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch03/OperatorEx6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch03/OperatorEx7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch03/OperatorEx8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch03/OperatorEx9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch05/ArrayEx1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch05/ArrayEx10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch05/ArrayEx11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch05/ArrayEx12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch05/ArrayEx13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch05/ArrayEx14.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch05/ArrayEx15.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch05/ArrayEx16.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch05/ArrayEx17.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch05/ArrayEx18.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch05/ArrayEx19.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch05/ArrayEx2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch05/ArrayEx3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch05/ArrayEx4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch05/ArrayEx5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch05/ArrayEx6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch05/ArrayEx7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch05/ArrayEx8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch05/ArrayEx9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch06/Card.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch06/CardTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch06/Tv.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch06/TvTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch06/TvTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch06/TvTest3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-basic/ch06/TvTest4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch06/CarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/CarTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch06/CarTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/CarTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch10/DateFormatEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch10/DateFormatEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch10/DateFormatEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch10/DateFormatEx4.java" afterDir="false" />
-    </list>
+    <list default="true" id="53ab017f-0d96-4ae8-86b1-7e42cf3fe3a4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

@@ -1,5 +1,5 @@
 package ch07;
-
+/*
 class BindingTest3{
 	public static void main(String[] args) {
 		Parent p = new Child();
@@ -30,3 +30,6 @@ class Child extends Parent {
 		System.out.println("this.x="  + this.x);
 	}
 }
+
+
+ */

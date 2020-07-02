@@ -1,5 +1,5 @@
 package ch07;
-
+/*
 class BindingTest2 {
 	public static void main(String[] args) {
 		Parent p = new Child();
@@ -22,3 +22,6 @@ class Parent {
 }
 
 class Child extends Parent { }
+
+
+ */

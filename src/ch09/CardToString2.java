@@ -1,5 +1,5 @@
 package ch09;
-
+/*
 class Card {
 	String kind;
 	int number;
@@ -27,3 +27,6 @@ class CardToString2 {
 		System.out.println(c2.toString());
 	}
 }
+
+
+ */

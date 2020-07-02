@@ -1,5 +1,5 @@
 package ch07;
-
+/*
 class A {
     void autoPlay(I i) {
           i.play();
@@ -29,3 +29,6 @@ class InterfaceTest2 {
 		a.autoPlay(new C()); // void autoPlay(I i)ȣ��
 	}
 }
+
+
+ */

@@ -1,5 +1,5 @@
 package ch08;
-
+/*
 class ExceptionEx1 {
 	public static void main(String[] args)
 	{
@@ -16,3 +16,6 @@ class ExceptionEx1 {
 		} // try-catch의 끝
 	}	// main메서드의 끝
 }
+
+
+ */

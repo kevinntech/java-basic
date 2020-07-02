@@ -1,6 +1,6 @@
 package ch06;
 
-class Data { int x; }
+//class Data { int x; }
 
 class ReferenceReturnEx {
 	public static void main(String[] args) 

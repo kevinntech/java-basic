@@ -1,5 +1,5 @@
 package ch07;
-
+/*
 class InterfaceTest3 {
 	public static void main(String[] args) {
 		A a = new A();
@@ -32,3 +32,6 @@ class InterfaceTest3 {
 		return new B();
 	}
  }
+
+
+ */

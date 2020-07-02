@@ -1,5 +1,5 @@
 package ch11;
-
+/*
 import java.util.*;
 
 public class MyVector implements List {
@@ -102,31 +102,32 @@ public class MyVector implements List {
 	/****************************************/
 //  public int size();
 //  public boolean isEmpty();
-	public boolean contains(Object o){ return false;}
-	public Iterator iterator(){ return null; }
+//	public boolean contains(Object o){ return false;}
+//	public Iterator iterator(){ return null; }
 	//	public Object[] toArray();
-	public Object[] toArray(Object a[]){ return null;}
+//	public Object[] toArray(Object a[]){ return null;}
 	//  public boolean add(Object o);
 //  public boolean remove(Object o);
-	public boolean containsAll(Collection c){ return false; }
-	public boolean addAll(Collection c){ return false; }
-	public boolean addAll(int index, Collection c){ return false; }
-	public boolean removeAll(Collection c){ return false; }
-	public boolean retainAll(Collection c){ return false; }
+//	public boolean containsAll(Collection c){ return false; }
+//	public boolean addAll(Collection c){ return false; }
+//	public boolean addAll(int index, Collection c){ return false; }
+//	public boolean removeAll(Collection c){ return false; }
+//	public boolean retainAll(Collection c){ return false; }
 	//	public void clear();
-	public boolean equals(Object o){ return false; }
+//	public boolean equals(Object o){ return false; }
 	//	public int hashCode();
 //  public Object get(int index);
-	public Object set(int index, Object element){ return null;}
-	public void add(int index, Object element){}
+//	public Object set(int index, Object element){ return null;}
+//	public void add(int index, Object element){}
 	//  public Object remove(int index);
-	public int indexOf(Object o){ return -1;}
-	public int lastIndexOf(Object o){ return -1;}
-	public ListIterator listIterator(){ return null; }
-	public ListIterator listIterator(int index){ return null; }
-	public List subList(int fromIndex, int toIndex){ return null; }
+//	public int indexOf(Object o){ return -1;}
+//	public int lastIndexOf(Object o){ return -1;}
+//	public ListIterator listIterator(){ return null; }
+//	public ListIterator listIterator(int index){ return null; }
+//	public List subList(int fromIndex, int toIndex){ return null; }
 
-	default void sort(Comparator c) { /* 내용생략 */ }                     // JDK1.8부터
-	default Spliterator spliterator() { /* 내용생략 */ }                  // JDK1.8부터
-	default void replaceAll(UnaryOperator operator){/* 내용생략 */} //JDK1.8부터
-}
+//	default void sort(Comparator c) { /* 내용생략 */ }                     // JDK1.8부터
+//	default Spliterator spliterator() { /* 내용생략 */ }                  // JDK1.8부터
+//	default void replaceAll(UnaryOperator operator){/* 내용생략 */} //JDK1.8부터
+//}
+

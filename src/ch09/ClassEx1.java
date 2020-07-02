@@ -1,5 +1,5 @@
 package ch09;
-
+/*
 final class Card {
 	String kind;
 	int num;
@@ -32,3 +32,6 @@ class ClassEx1 {
 		System.out.println(cObj.toString());
 	}
 }
+
+
+ */

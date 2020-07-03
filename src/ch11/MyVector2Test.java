@@ -1,7 +1,7 @@
 package ch11;
 
 import java.util.*;
-
+/*
 class MyVector2Test {
 	public static void main(String args[]) {
 		MyVector2 v = new MyVector2();
@@ -21,3 +21,6 @@ class MyVector2Test {
 		System.out.println("삭제 후 : " + v);
 	}
 }
+
+
+ */

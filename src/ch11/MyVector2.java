@@ -1,7 +1,7 @@
 package ch11;
 
 import java.util.*;
-
+/*
 public class MyVector2 extends MyVector implements Iterator {
 	int cursor  = 0;
 	int lastRet = -1;
@@ -53,3 +53,6 @@ public class MyVector2 extends MyVector implements Iterator {
 		}
 	}
 } // class
+
+
+ */

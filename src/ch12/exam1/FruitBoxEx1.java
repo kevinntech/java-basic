@@ -1,4 +1,4 @@
-package ch12;
+package ch12.exam1;
 
 import java.util.ArrayList;
 
@@ -12,8 +12,21 @@ public class FruitBoxEx1 {
         Box<Fruit> fruitBox = new Box<Fruit>();
         Box<Apple> appleBox = new Box<Apple>();
         Box<Toy> toyBox = new Box<Toy>();
-        Box<Grape> grapeBox = new Box<Apple>(); // 에러 타입 불일치
+        //Box<Grape> grapeBox = new Box<Apple>(); // 에러 타입 불일치
 
+        fruitBox.add(new Fruit());
+        fruitBox.add(new Apple()); // OK. void add(Fruit item)
+
+        appleBox.add(new Apple());
+        appleBox.add(new Apple());
+        //appleBox.add(new Toy()); // 에러 Box<Apple>에는 Apple만 담을 수 있음
+
+        toyBox.add(new Toy());
+        //toyBox.add(new Apple()); // 에러
+
+        System.out.println(fruitBox);
+        System.out.println(appleBox);
+        System.out.println(toyBox);
     }
 }
 

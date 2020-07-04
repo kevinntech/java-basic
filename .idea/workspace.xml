@@ -19,15 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53ab017f-0d96-4ae8-86b1-7e42cf3fe3a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch08/ExceptionEx10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch08/ExceptionEx10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch09/StringTokenizerEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch09/StringTokenizerEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch11/MyVector2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch11/MyVector2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch11/MyVector2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch11/MyVector2Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch12/FruitBoxEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12/exam1/FruitBoxEx1.java" afterDir="false" />
-    </list>
+    <list default="true" id="53ab017f-0d96-4ae8-86b1-7e42cf3fe3a4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

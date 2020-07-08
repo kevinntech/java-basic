@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53ab017f-0d96-4ae8-86b1-7e42cf3fe3a4" name="Default Changelist" comment="" />
+    <list default="true" id="53ab017f-0d96-4ae8-86b1-7e42cf3fe3a4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,15 +50,15 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\DH\Documents\git\java-basic\src\ch07" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\DH\Documents\git\java-basic\src\ch14" />
       <recent name="C:\Users\DH\Documents\git\java-basic\src\ch11" />
       <recent name="C:\Users\DH\Documents\git\java-basic\src\ch10" />
       <recent name="C:\Users\DH\Documents\git\java-basic\src\ch09" />
       <recent name="C:\Users\DH\Documents\git\java-basic\src\ch08" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DH\Documents\git\java-basic\src\ch07" />
     </key>
   </component>
   <component name="RunManager" selected="Application.FruitBoxEx4">
@@ -193,10 +195,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590326893375" />
-    <state x="99" y="4" key="new project wizard" timestamp="1592662089826">
-      <screen x="0" y="0" width="1440" height="860" />
+    <state x="132" y="5" key="new project wizard" timestamp="1594101751952">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="99" y="4" key="new project wizard/0.0.1440.860/-1920.-180.1920.1040@0.0.1440.860" timestamp="1592662089826" />
+    <state x="132" y="5" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1594101751952" />
     <state x="385" y="144" width="670" height="676" key="search.everywhere.popup" timestamp="1589791056680">
       <screen x="0" y="23" width="1440" height="797" />
     </state>

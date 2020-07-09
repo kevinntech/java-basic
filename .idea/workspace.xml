@@ -31,6 +31,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -46,19 +47,28 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ch14" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ch01" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DH\Documents\git\java-basic\src\ch07" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\DH\Documents\git\java-basic\src\ch14" />
       <recent name="C:\Users\DH\Documents\git\java-basic\src\ch11" />
       <recent name="C:\Users\DH\Documents\git\java-basic\src\ch10" />
       <recent name="C:\Users\DH\Documents\git\java-basic\src\ch09" />
       <recent name="C:\Users\DH\Documents\git\java-basic\src\ch08" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\DH\Documents\git\java-basic\src\ch07" />
     </key>
   </component>
   <component name="RunManager" selected="Application.FruitBoxEx4">
@@ -195,14 +205,20 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590326893375" />
-    <state x="132" y="5" key="new project wizard" timestamp="1594101751952">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="491" y="202" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1594227490440">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="491" y="202" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.860/1440.-180.1920.1040@0.0.1440.860" timestamp="1594227490440" />
+    <state x="99" y="4" key="new project wizard" timestamp="1594228353981">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="99" y="4" key="new project wizard/0.0.1440.860/-1920.-180.1920.1040@0.0.1440.860" timestamp="1592662089826" />
+    <state x="99" y="4" key="new project wizard/0.0.1440.860/1440.-180.1920.1040@0.0.1440.860" timestamp="1594228353981" />
     <state x="132" y="5" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1594101751952" />
-    <state x="385" y="144" width="670" height="676" key="search.everywhere.popup" timestamp="1589791056680">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state x="385" y="131" width="670" height="730" key="search.everywhere.popup" timestamp="1594225838981">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
+    <state x="385" y="131" width="670" height="730" key="search.everywhere.popup/0.0.1440.860/1440.-180.1920.1040@0.0.1440.860" timestamp="1594225838981" />
     <state x="385" y="144" width="670" height="676" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1589791056680" />
   </component>
 </project>

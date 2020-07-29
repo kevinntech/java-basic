@@ -21,6 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="53ab017f-0d96-4ae8-86b1-7e42cf3fe3a4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Foo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Foo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch06/BlockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06/BlockTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,9 +203,10 @@
     <state width="1397" height="215" key="GridCell.Tab.0.right/0.0.1440.860/1440.-180.1920.1040@0.0.1440.860" timestamp="1593763527999" />
     <state width="1398" height="199" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1589793652108" />
     <state width="1877" height="272" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589980257983" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1590326893375">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="346" y="136" key="SettingsEditor" timestamp="1595334947508">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
+    <state x="346" y="136" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1595334947508" />
     <state x="461" y="164" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590326893375" />
     <state x="491" y="202" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1594227490440">
       <screen x="0" y="0" width="1440" height="860" />

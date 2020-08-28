@@ -22,7 +22,5 @@ public class IteratorVsStreamExample {
         // Java 8 이후 코드 (Stream 이용)
         Stream<String> stream = list.stream(); // list에서 스트림 객체를 얻어낸다.
         stream.forEach( name -> System.out.println(name)); // name이라는 매개변수에 list의 요소(문자열)이 대입 됨
-
-
     }
 }
